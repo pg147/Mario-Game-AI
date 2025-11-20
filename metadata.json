@@ -1,0 +1,5 @@
+{
+  "name": "Super GenAI Bros",
+  "description": "A classic platformer game featuring procedural level generation powered by the Gemini API. Experience authentic physics and retro graphics.",
+  "requestFramePermissions": []
+}
